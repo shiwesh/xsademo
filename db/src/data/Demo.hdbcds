@@ -1,0 +1,10 @@
+context Demo {
+
+		Entity myTable {
+			key KEYID: String(10);
+			APP_ID: String(50);
+			APP_CODE: String(50);
+			EXT1: String(50);
+			EXT2: String(50);
+		};
+};
